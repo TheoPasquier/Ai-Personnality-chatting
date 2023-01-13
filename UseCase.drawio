@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-13T14:42:51.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="0ja8e9FbyBn7XDjYCLgJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-13T16:07:30.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="_ecOU0HE5KsmQmkO2vyL" type="github">
   <diagram id="QrX-EznrX8NcuX-Z5qwo" name="Page-1">
-    <mxGraphModel dx="2333" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,9 +64,6 @@
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-83" value="OpenAi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="77" y="900" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k7uYUYKEQTDLJ0aiQLSv-84" target="k7uYUYKEQTDLJ0aiQLSv-88">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-84" value="Api" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="650" width="30" height="60" as="geometry" />
         </mxCell>
@@ -78,12 +75,6 @@
         </mxCell>
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-87" value="Personnality Settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="60" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k7uYUYKEQTDLJ0aiQLSv-88" target="k7uYUYKEQTDLJ0aiQLSv-86">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-88" value="&lt;div&gt;Ask account&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="257" y="620" width="104" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-90" value="Accounting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="590" width="80" height="30" as="geometry" />
@@ -109,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-97" value="Login to user account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="378" y="680" width="104" height="80" as="geometry" />
+          <mxGeometry x="371" y="660" width="104" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k7uYUYKEQTDLJ0aiQLSv-103" target="k7uYUYKEQTDLJ0aiQLSv-86">
           <mxGeometry relative="1" as="geometry" />
@@ -126,10 +117,10 @@
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-103" value="Logged user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="850" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-106" value="Select chat" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-106" value="Select dialogue" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="535" y="884" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-107" value="Edit chat context" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-107" value="Edit dialogue context" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="535" y="940" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-108" value="Chat with AI" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -217,6 +208,9 @@
           <mxGeometry x="1136" y="540" width="104" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7uYUYKEQTDLJ0aiQLSv-151" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeWidth=1;" edge="1" parent="1" source="k7uYUYKEQTDLJ0aiQLSv-147" target="k7uYUYKEQTDLJ0aiQLSv-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7uYUYKEQTDLJ0aiQLSv-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeWidth=1;endArrow=none;endFill=0;" edge="1" parent="1" source="k7uYUYKEQTDLJ0aiQLSv-97" target="k7uYUYKEQTDLJ0aiQLSv-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
