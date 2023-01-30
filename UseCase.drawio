@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T09:18:28.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Ov3zWF08Yb1YVWt5rF-x" version="20.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-30T09:19:31.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fujf6B3PfQPW26k4pvQF" version="20.8.5" type="github" pages="4">
   <diagram id="QrX-EznrX8NcuX-Z5qwo" name="UseCase">
     <mxGraphModel dx="1909" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
           <mxGeometry y="54" width="140" height="56" as="geometry" />
         </mxCell>
         <mxCell id="kolIQZ4a0cQggph-2vq8-17" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="389" width="140" height="170" as="geometry" />
+          <mxGeometry x="80" y="389" width="140" height="195" as="geometry" />
         </mxCell>
         <mxCell id="kolIQZ4a0cQggph-2vq8-18" value="- Id : int" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kolIQZ4a0cQggph-2vq8-17">
           <mxGeometry y="29" width="140" height="25" as="geometry" />
@@ -240,8 +240,11 @@
         <mxCell id="kolIQZ4a0cQggph-2vq8-20" value="- Password: string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kolIQZ4a0cQggph-2vq8-17">
           <mxGeometry y="79" width="140" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="UunK_3PYM5uhHIef-83r-2" value="+ Token: string" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kolIQZ4a0cQggph-2vq8-17">
+          <mxGeometry y="104" width="140" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="kolIQZ4a0cQggph-2vq8-21" value="+ createDialogue()&lt;br&gt;+ openDialogue()&lt;br&gt;+ setContext()&lt;br&gt;+ sendMessage()" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kolIQZ4a0cQggph-2vq8-17">
-          <mxGeometry y="104" width="140" height="66" as="geometry" />
+          <mxGeometry y="129" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kolIQZ4a0cQggph-2vq8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="kolIQZ4a0cQggph-2vq8-20" target="kolIQZ4a0cQggph-2vq8-5">
           <mxGeometry relative="1" as="geometry" />
